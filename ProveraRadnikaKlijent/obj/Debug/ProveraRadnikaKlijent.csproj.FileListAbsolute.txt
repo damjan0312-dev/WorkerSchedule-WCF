@@ -1,0 +1,11 @@
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\bin\Debug\ProveraRadnikaKlijent.exe.config
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\bin\Debug\ProveraRadnikaKlijent.exe
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\bin\Debug\ProveraRadnikaKlijent.pdb
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\bin\Debug\ProveraRadnikaJun19.dll
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\bin\Debug\ProveraRadnikaJun19.pdb
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\bin\Debug\ProveraRadnikaJun19.dll.config
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\obj\Debug\ProveraRadnikaKlijent.csprojAssemblyReference.cache
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\obj\Debug\ProveraRadnikaKlijent.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\obj\Debug\ProveraRadnikaKlijent.csproj.CopyComplete
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\obj\Debug\ProveraRadnikaKlijent.exe
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaKlijent\obj\Debug\ProveraRadnikaKlijent.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProveraRadnikaJun19", "ProveraRadnikaJun19\ProveraRadnikaJun19.csproj", "{247D19CA-57CD-45E0-8A45-F035C1865D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProveraRadnikaKlijent", "ProveraRadnikaKlijent\ProveraRadnikaKlijent.csproj", "{FC595E73-292D-4676-A4D6-2D4A28F275EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247D19CA-57CD-45E0-8A45-F035C1865D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247D19CA-57CD-45E0-8A45-F035C1865D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247D19CA-57CD-45E0-8A45-F035C1865D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247D19CA-57CD-45E0-8A45-F035C1865D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC595E73-292D-4676-A4D6-2D4A28F275EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC595E73-292D-4676-A4D6-2D4A28F275EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC595E73-292D-4676-A4D6-2D4A28F275EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC595E73-292D-4676-A4D6-2D4A28F275EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9A4A128-F9A2-4227-9322-3874CD587BC9}
+	EndGlobalSection
+EndGlobal

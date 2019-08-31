@@ -1,0 +1,7 @@
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaJun19\bin\Debug\ProveraRadnikaJun19.dll.config
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaJun19\bin\Debug\ProveraRadnikaJun19.dll
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaJun19\bin\Debug\ProveraRadnikaJun19.pdb
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaJun19\obj\Debug\ProveraRadnikaJun19.csprojAssemblyReference.cache
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaJun19\obj\Debug\ProveraRadnikaJun19.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaJun19\obj\Debug\ProveraRadnikaJun19.dll
+D:\Visual Studio Workspace\WCF\ProveraRadnikaJun19\ProveraRadnikaJun19\obj\Debug\ProveraRadnikaJun19.pdb
